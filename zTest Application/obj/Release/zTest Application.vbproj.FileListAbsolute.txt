@@ -1,0 +1,17 @@
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\Resources\Switch.png
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\Resources\Switch.bmp
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\ToolsBox.dll
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\ToolsBox.pdb
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\ToolsBox.xml
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTest Application.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTest Application.vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTest Application.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTest Application.vbproj.CopyComplete
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\zTest Application.exe
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\zTest Application.pdb
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Release\zTest Application.xml
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTestApplication.Form1.resources
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTestApplication.Resources.resources
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTest Application.exe
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTest Application.xml
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\Release\zTest Application.pdb

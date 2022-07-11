@@ -1,0 +1,18 @@
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\Resources\Switch.png
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\Resources\Switch.bmp
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\Aplicação Teste.exe
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\Aplicação Teste.pdb
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\Aplicação Teste.xml
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\ToolsBox.dll
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\ToolsBox.pdb
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\bin\Debug\ToolsBox.xml
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação Teste.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação_Teste.Form2.resources
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação_Teste.Form3.resources
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação_Teste.Resources.resources
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação Teste.vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação Teste.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação Teste.vbproj.CopyComplete
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação Teste.exe
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação Teste.xml
+C:\Users\Romulo Meirelles\Documents\visual studio 2010\Projects\ToolsBox\Aplicação Teste\obj\x86\Debug\Aplicação Teste.pdb
