@@ -1,0 +1,508 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{7C2AF886-3BC3-48CB-A0A4-0792ADB7FD2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>ToolsBox</RootNamespace>
+    <AssemblyName>ToolsBox</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ToolsBox.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ToolsBox.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ToolsBox.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>ToolsBox.xml</DocumentationFile>
+    <WarningLevel>0</WarningLevel>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>ToolsBox.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>0</WarningLevel>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ToolsBox.xml</DocumentationFile>
+    <WarningLevel>0</WarningLevel>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ToolsBox.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <WarningLevel>0</WarningLevel>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Button\Button_AlphaBlend.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Button\Button_Gradient.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Button\Button_MultForms.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ColorTransition\ColorTransition.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ComboBox\ComboBox_.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListView\ListView_ColorTransition.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListView\ListView_Ghost_Black.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListView\ListView_Ghost_Theme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListView\ListView_Graphicals.vb" />
+    <Compile Include="Message Box\MsgBoxPretty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Control\Control_TaskBar_Top.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RichText\RichText_Tools.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools Utils\Assembly.vb" />
+    <Compile Include="GroupBox\GroupBox_Avatar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Context_Menus\Context_MenuStrip.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Button.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Eight.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Five.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Four.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Nine.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_One.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Seven.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Three.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Two.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Simple_Wifi_Picture.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Wifi_Picture.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Google_2FA.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Box_Six.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataPicker\DataPicker.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools Utils\EMail.vb" />
+    <Compile Include="Tools Utils\GetMyGlobalIP.vb" />
+    <Compile Include="Tools Utils\HashMD5.vb" />
+    <Compile Include="Tools Utils\HashSHA1.vb" />
+    <Compile Include="Tools Utils\HashSHA256.vb" />
+    <Compile Include="Tools Utils\HashSHA384.vb" />
+    <Compile Include="Tools Utils\HashSHA512.vb" />
+    <Compile Include="Tools Utils\HotKeys_Shortcut.vb" />
+    <Compile Include="Tools Utils\MouseNoClick.vb" />
+    <Compile Include="Tools Utils\Mouse_Coordinate.vb" />
+    <Compile Include="Tools Utils\Files.vb" />
+    <Compile Include="Tools Utils\PrintScreenBlock.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools Utils\Security.vb" />
+    <Compile Include="Tools Utils\UnixAndTime.vb" />
+    <Compile Include="Tools Utils\Wait.vb" />
+    <Compile Include="GroupBox\GroupBox_BlackShades.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GroupBox\GroupBox_Transparent.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumericUPDown\NumericUpDown_Flux.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumericUPDown\NumericUpDown_Inf.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumericUPDown\NumericUpDown_.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="NumericUPDown\NumericUpDown_Dark.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="PictureBox\PictureBox_Circular.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProgressBar\ProgressBar_.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProgressBar\ProgressBar_Radial_2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProgressBar\ProgressBar_Radial_1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tools Utils\Bordas Arredondadas.vb" />
+    <Compile Include="Tools Utils\CenterForm.vb" />
+    <Compile Include="Tools Utils\Mascara.vb" />
+    <Compile Include="Tools Utils\Mouse_Move_Objeto.vb" />
+    <Compile Include="Tools Utils\Objetos_Transparentes.vb" />
+    <Compile Include="Tools Utils\Resize_Image.vb" />
+    <Compile Include="Form\Form_Hide.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Form\Form_Transition.vb" />
+    <Compile Include="ListBox\ListBox_Gradient.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListView\ListView_Ghost_Less.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListView\ListView_Gradient.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ListView\ListView_Transparent.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Message Box\MessageBox.Designer.vb">
+      <DependentUpon>MessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Message Box\MessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel\Gradient_Panel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Panel\Panel_Trasparent.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ProgressBar\ProgressBar_Radial_3.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RadioButton\RadioButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch Calvv.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch Aresio.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch BitDefender.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Switch\Switch_Deimos.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Dinam.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Doom.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Flat.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Genesis.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Light.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Login.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Positron.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_SLC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Sweet.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_V.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_VI.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Switch\Switch_Vizual.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TabPage\TabPage_Modern_Rendep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TabPage\TabPage_Modern_Empire.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TabPage\TabPage_Modern_Black.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Tema_Base\Theme Base Total.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Control\Control_Wifi_Signal.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBox\TextBox_Colorfull.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBox\TextBox_DarkBorder.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextBox\TextBox_Diferenciado.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Toggle\Toggle.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Message Box\MessageBox.resx">
+      <DependentUpon>MessageBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Message Box\MsgBoxPretty.resx">
+      <DependentUpon>MsgBoxPretty.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Switch.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\Switch.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\Play04.wav" />
+    <None Include="Resources\cicero-engraving.png" />
+    <None Include="Resources\Close.png" />
+    <None Include="Resources\Mensseger.wav" />
+    <None Include="Resources\Message.ico" />
+    <None Include="Resources\Play01.wav" />
+    <None Include="Resources\Play02.wav" />
+    <None Include="Resources\Play03.wav" />
+    <None Include="Resources\Google-Authenticator_24x24.png" />
+    <None Include="Resources\Signal_00.png" />
+    <None Include="Resources\Signal_01.png" />
+    <None Include="Resources\Signal_02.png" />
+    <None Include="Resources\Signal_03.png" />
+    <None Include="Resources\Signal_04.png" />
+    <None Include="Resources\Signal_05.png" />
+    <None Include="Resources\Signal_Simple_Picture_1.png" />
+    <None Include="Resources\Signal_Simple_Picture_2.png" />
+    <None Include="Resources\Signal_Simple_Picture_3.png" />
+    <None Include="Resources\Signal_Simple_Picture_4.png" />
+    <None Include="Resources\Signal_Simple_Picture_0.png" />
+    <None Include="Resources\calendarDark.png" />
+    <None Include="Resources\calendarWhite.png" />
+    <None Include="Resources\Resource_Hack.exe" />
+    <None Include="Resources\RHDiscription.txt" />
+    <None Include="Resources\Chat.png" />
+    <None Include="Resources\Information.png" />
+    <None Include="Resources\Question.png" />
+    <None Include="Resources\Error.png" />
+    <None Include="Resources\Exclamation.png" />
+    <None Include="Resources\Icon.png" />
+    <None Include="Resources\Close_.png" />
+    <None Include="Resources\Minimize_.png" />
+    <None Include="Resources\Maximize_.png" />
+    <None Include="Resources\Restaure_.png" />
+    <None Include="Resources\hide_18px.ico" />
+    <None Include="Resources\hide_18px.png" />
+    <None Include="Resources\hide_16px.png" />
+    <None Include="Resources\hide_Icon_18px.ico" />
+    <None Include="Resources\TaskBar_Icon.ico" />
+    <None Include="Resources\mMCopy.Image.png" />
+    <None Include="Resources\mMCut.Image.png" />
+    <None Include="Resources\mMNew.Image.png" />
+    <None Include="Resources\mMOpen.Image.png" />
+    <None Include="Resources\mMPaste.Image.png" />
+    <None Include="Resources\mMSave.Image.png" />
+    <None Include="Resources\tbAlignCentre.Image.png" />
+    <None Include="Resources\tbAlignLeft.Image.png" />
+    <None Include="Resources\tbAlignRight.Image.png" />
+    <None Include="Resources\tbBold.Image.png" />
+    <None Include="Resources\tbCopy.Image.png" />
+    <None Include="Resources\tbCut.Image.png" />
+    <None Include="Resources\tbItalic.Image.png" />
+    <None Include="Resources\tbLower.Image.png" />
+    <None Include="Resources\tbNew.Image.png" />
+    <None Include="Resources\tbOpen.Image.png" />
+    <None Include="Resources\tbPaste.Image.png" />
+    <None Include="Resources\tbSave.Image.png" />
+    <None Include="Resources\tbStrike.Image.png" />
+    <None Include="Resources\tbUnderline.Image.png" />
+    <None Include="Resources\tbUpper.Image.png" />
+    <None Include="Resources\tbZoom.Image.png" />
+    <None Include="Resources\tbZoomOut.Image.png" />
+    <None Include="Resources\Right_Text.png" />
+    <None Include="Resources\Left_Text.png" />
+    <None Include="Resources\Center_Text.png" />
+    <None Include="Resources\zoom_out.png" />
+    <None Include="Resources\zoom_in.png" />
+    <None Include="Resources\Pen.png" />
+    <None Include="Resources\Color.png" />
+    <None Include="Resources\Imagem.png" />
+    <None Include="Resources\redo_16px.png" />
+    <None Include="Resources\undo_16px.png" />
+    <None Include="Resources\Exit.png" />
+    <None Include="Resources\Customize.png" />
+    <None Include="Resources\SelectAll.png" />
+    <Content Include="ToolsBox.ico" />
+    <Content Include="Tools_System.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
