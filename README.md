@@ -23,3 +23,8 @@ Imports ToolsBox
  PanelGradient.GradientTopRight = Color.DarkRed
  Me.Controls.Add(PanelGradient)
 ```
+## Form Example
+<img src="/Pictures/exemple.png">
+
+## ToolBox in Visual Studio
+<img src="/Pictures/MyTools.png">
