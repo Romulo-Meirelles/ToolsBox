@@ -1,0 +1,22 @@
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\Resources\Switch.png
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\Resources\Switch.bmp
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\ToolsBox Tests.exe.config
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\ToolsBox Tests.exe
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\ToolsBox Tests.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\ToolsBox Tests.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\Newtonsoft.Json.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\QRCoder.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\ToolsBox.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\ToolsBox.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\ToolsBox.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Release\QRCoder.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox Tests.vbproj.AssemblyReference.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox_Tests.Form1.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox_Tests.Resources.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox Tests.vbproj.GenerateResource.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox Tests.vbproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox.6E9DF4C8.Up2Date
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox Tests.exe
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox Tests.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox Tests.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Release\ToolsBox Tests.exe.config

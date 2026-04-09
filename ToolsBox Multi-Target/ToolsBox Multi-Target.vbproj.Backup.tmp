@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>
+    </TargetFrameworks>
+
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>ToolsBox Multi-Target</RootNamespace>
+    <AssemblyName>ToolsBox Multi-Target</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="My Project\" />
+  </ItemGroup>
+
+</Project>

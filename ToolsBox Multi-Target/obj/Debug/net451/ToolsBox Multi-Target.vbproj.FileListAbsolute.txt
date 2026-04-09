@@ -1,0 +1,14 @@
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\bin\Debug\net451\ToolsBox.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\bin\Debug\net451\ToolsBox.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox Multi-Target.vbproj.AssemblyReference.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox Multi-Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox Multi-Target.AssemblyInfoInputs.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox Multi-Target.AssemblyInfo.vb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox Multi-Target.vbproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox Multi-Target.sourcelink.json
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox.MessageBox.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox.MsgBoxPretty.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox.Resource.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Debug\net451\ToolsBox Multi-Target.vbproj.GenerateResource.cache

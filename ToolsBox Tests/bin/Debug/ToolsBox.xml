@@ -1,0 +1,380 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ToolsBox
+</name>
+</assembly>
+<members>
+<member name="T:ToolsBox.My.Resources.Resources">
+<summary>
+  Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.ResourceManager">
+<summary>
+  Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Culture">
+<summary>
+  Substitui a propriedade CurrentUICulture do thread atual para todas as
+  pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources._Error">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources._Exit">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.bitcoin_16px">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.calendarDark">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.calendarWhite">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Center_Text">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Chat">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.cicero_engraving">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Close">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Close_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Color">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Customize">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Exclamation">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Google_Authenticator_24x24">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.hide_16px">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.hide_18px">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.hide_Icon_18px">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Imagem">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Information">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Left_Text">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Maximize_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Mensseger">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Message">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Minimize_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.mMCopy_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.mMCut_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.mMNew_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.mMOpen_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.mMPaste_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.mMSave_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Pen">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Play01">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Play02">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Play03">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Play04">
+<summary>
+  Consulta um recurso localizado do tipo System.IO.UnmanagedMemoryStream semelhante a System.IO.MemoryStream.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Question">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.redo_16px">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Resource_Hack">
+<summary>
+  Consulta um recurso localizado do tipo System.Byte[].
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Restaure_">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.RHDiscription">
+<summary>
+  Consulta uma cadeia de caracteres localizada semelhante a Imports System
+Imports System.Reflection
+Imports System.Runtime.InteropServices
+imports System.IO.File
+
+&lt;Assembly: AssemblyTitle(&quot;*Title*&quot;)&gt;
+&lt;Assembly: AssemblyDescription(&quot;*Description*&quot;)&gt;
+&lt;Assembly: AssemblyCompany(&quot;*Company*&quot;)&gt;
+&lt;Assembly: AssemblyProduct(&quot;*Product*&quot;)&gt;
+&lt;Assembly: AssemblyCopyright(&quot;*Copyright*&quot;)&gt;
+&lt;Assembly: AssemblyTrademark(&quot;*Trademark*&quot;)&gt;
+&lt;Assembly: ComVisible(False)&gt;
+&lt;Assembly: Guid(&quot;b36a3bf7-6e10-4625-8495-70f9d81b97d0&quot;)&gt;
+&lt;Assembly: AssemblyVersion(&quot;*version*&quot;)&gt;
+&lt;Assembl [o restante da cadeia de caracteres foi truncado]&quot;;.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Right_Text">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.SelectAll">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_00">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_01">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_02">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_03">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_04">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_05">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_Simple_Picture_0">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_Simple_Picture_1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_Simple_Picture_2">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_Simple_Picture_3">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Signal_Simple_Picture_4">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Switch">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.Switch1">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.TaskBar_Icon">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.tbCopy_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.tbCut_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.tbNew_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.tbOpen_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.tbPaste_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.tbSave_Image">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.ToolsBox">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Icon semelhante a (Ícone).
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.undo_16px">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.zoom_in">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ToolsBox.My.Resources.Resources.zoom_out">
+<summary>
+  Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="E:ToolsBox.Utils.ClipboardMonitor.ClipboardChanged">
+ <summary>
+ Clipboard contents changed.
+ </summary>
+</member>
+</members>
+</doc>

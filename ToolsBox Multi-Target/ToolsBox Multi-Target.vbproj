@@ -1,0 +1,341 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>
+	     net5.0-windows;
+	     net6.0-windows;
+	     net7.0-windows;
+         net8.0-windows;
+         net9.0-windows;
+		 net10.0-windows10.0.19041.0
+    </TargetFrameworks>
+
+    <UseWindowsForms>true</UseWindowsForms>
+    <RootNamespace>ToolsBox</RootNamespace>
+    <AssemblyName>ToolsBox</AssemblyName>
+    <ApplicationIcon>ToolsBox.ico</ApplicationIcon>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <StartupObject>ToolsBox.</StartupObject>
+    <Version>0.2.2.6</Version>
+    <Authors>Copyright ©  2025 - Rômulo Meirelles</Authors>
+    <Company>Digital Compiler.</Company>
+    <Description>ToolsBox. Ferramentas Necessárias</Description>
+    <Product>ToolsBox. Ferramentas Necessárias</Product>
+    <Title>ToolsBox</Title>
+    <Copyright>Copyright ©  2025 - Rômulo Meirelles</Copyright>
+    <PackageProjectUrl>https://github.com/Romulo-Meirelles/ToolsBox</PackageProjectUrl>
+    <PackageIcon>ToolsBox.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Pictures\ToolsBox.ico" />
+    <Content Include="Pictures\Tools_System.ico" />
+    <Content Include="ToolsBox.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Pictures\Black.ico" />
+    <EmbeddedResource Include="Pictures\Blue.ico" />
+    <EmbeddedResource Include="Pictures\DarkBlue.ico" />
+    <EmbeddedResource Include="Pictures\DarkGreen.ico" />
+    <EmbeddedResource Include="Pictures\DarkPink.ico" />
+    <EmbeddedResource Include="Pictures\DarkRed.ico" />
+    <EmbeddedResource Include="Pictures\Green.ico" />
+    <EmbeddedResource Include="Pictures\LimeGreen.ico" />
+    <EmbeddedResource Include="Pictures\Magenta.ico" />
+    <EmbeddedResource Include="Pictures\Orange.ico" />
+    <EmbeddedResource Include="Pictures\Pink.ico" />
+    <EmbeddedResource Include="Pictures\Purple.ico" />
+    <EmbeddedResource Include="Pictures\Red.ico" />
+    <EmbeddedResource Include="Pictures\White.ico" />
+    <EmbeddedResource Include="Pictures\WhiteBlue.ico" />
+    <EmbeddedResource Include="Pictures\WhitePurple.ico" />
+    <EmbeddedResource Include="Pictures\Yellow.ico" />
+  </ItemGroup>
+
+  
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+    <PackageReference Include="QRCoder" Version="1.7.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Bar\HorizontalBar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Block\Block.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Block\DualBlock.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Button\Button_AlphaBlend.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Button\Button_Gradient.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Button\Button_MultForms.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Button\Colours_Button.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Charts\CharLine.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Charts\ChartBar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Charts\ChartCicle.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Charts\ChartPie.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Charts\ChartPiramid.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ColorTransition\ColorTransition.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ComboBox\ComboBox_.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Context_Menus\Context_MenuStrip.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Button.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Eight.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Five.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Four.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Nine.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_One.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Seven.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Six.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Three.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Box_Two.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Google_2FA.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Simple_Wifi_Picture.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_TaskBar_Top.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Wifi_Picture.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Control_Wifi_Signal.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Control\Elipse.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="DataPicker\DataPicker.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Form\Form_Hide.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GroupBox\GroupBox_Avatar.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GroupBox\GroupBox_BlackShades.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="GroupBox\GroupBox_Transparent.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ListBox\ListBox_Gradient.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ListView\ListView_ColorTransition.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ListView\ListView_Ghost_Black.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ListView\ListView_Ghost_Less.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ListView\ListView_Ghost_Theme.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ListView\ListView_Gradient.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ListView\ListView_Transparent.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Message Box\MessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Message Box\MsgBoxPretty.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NumericUPDown\NumericUpDown_.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NumericUPDown\NumericUpDown_Dark.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NumericUPDown\NumericUpDown_Flux.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="NumericUPDown\NumericUpDown_Inf.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panel\Gradient_Panel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Panel\Panel_Trasparent.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="PictureBox\PictureBox_Circular.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ProgressBar\ProgressBar_.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ProgressBar\ProgressBar_Radial_1.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ProgressBar\ProgressBar_Radial_2.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="ProgressBar\ProgressBar_Radial_3.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RadioButton\RadioButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="RalfProgressGauge\RalfProgressGauge.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Ratings\Rating.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Resource.Designer.vb">
+      <DependentUpon>Resource.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Update="RichText\RichText_Tools.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Ring Gauge\RingGauge.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch Aresio.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch BitDefender.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch Calvv.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Deimos.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Dinam.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Doom.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Flat.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Genesis.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Light.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Login.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Positron.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_SLC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Sweet.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_V.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_VI.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Switch\Switch_Vizual.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="TabPage\TabPage_Modern_Black.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="TabPage\TabPage_Modern_Empire.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="TabPage\TabPage_Modern_Rendep.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Tema_Base\Theme Base Total.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Toggle\Toggle.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Tools Utils\PrintScreenBlock.vb">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Resource.resx">
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <LastGenOutput>Resource.Designer.vb</LastGenOutput>
+      <Generator>ResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\Switch.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\Switch.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="ToolsBox.png">
+      <PackagePath>\</PackagePath>
+      <Pack>True</Pack>
+    </None>
+  </ItemGroup>
+
+</Project>

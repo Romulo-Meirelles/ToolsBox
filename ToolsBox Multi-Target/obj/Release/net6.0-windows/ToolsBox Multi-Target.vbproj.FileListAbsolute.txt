@@ -1,0 +1,19 @@
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\bin\Release\net6.0-windows\Resources\Switch.bmp
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\bin\Release\net6.0-windows\Resources\Switch.png
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\bin\Release\net6.0-windows\ToolsBox.deps.json
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\bin\Release\net6.0-windows\ToolsBox.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\bin\Release\net6.0-windows\ToolsBox.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox Multi-Target.vbproj.AssemblyReference.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox.MSG.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox.FormMessageBox.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox.Resource.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox Multi-Target.vbproj.GenerateResource.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox Multi-Target.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox Multi-Target.AssemblyInfoInputs.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox Multi-Target.AssemblyInfo.vb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox Multi-Target.vbproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox Multi-Target.sourcelink.json
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\refint\ToolsBox.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ToolsBox.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Multi-Target\obj\Release\net6.0-windows\ref\ToolsBox.dll

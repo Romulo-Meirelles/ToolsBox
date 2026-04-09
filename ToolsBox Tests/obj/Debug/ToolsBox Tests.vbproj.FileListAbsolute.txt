@@ -1,0 +1,22 @@
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\Resources\Switch.png
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\Resources\Switch.bmp
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\ToolsBox Tests.exe.config
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\ToolsBox Tests.exe
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\ToolsBox Tests.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\ToolsBox Tests.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\QRCoder.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\ToolsBox.dll
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\ToolsBox.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\ToolsBox.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\bin\Debug\QRCoder.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox Tests.vbproj.AssemblyReference.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox_Tests.Form1.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox_Tests.Resources.resources
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox Tests.vbproj.GenerateResource.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox Tests.vbproj.CoreCompileInputs.cache
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox.6E9DF4C8.Up2Date
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox Tests.exe
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox Tests.xml
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox Tests.pdb
+C:\Users\romul\source\repos\ToolsBox\ToolsBox Tests\obj\Debug\ToolsBox Tests.exe.config
